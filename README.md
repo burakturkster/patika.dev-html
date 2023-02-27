@@ -1,4 +1,4 @@
-# KODLUYORUZ İLK REPO SİZLERLE
+# KODLUYORUZ İLK HTML EXERCİSE SİZLERLE
 
  ## İlk oluşturduğum repoya ve diğer projerlerime ulaşmak için yapmanız gerekenler:
 * [Github](https://github.com/burakturkster) hesabımı takip etmek
